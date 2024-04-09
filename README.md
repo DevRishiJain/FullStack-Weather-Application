@@ -2,7 +2,7 @@
 
 > A simple Weather App developed using React and the Open Weather API
 
-- [Demo](#demo)
+
 - [Install](#install)
 - [Stack](#stack)
 - [Contributing](#contributing)
@@ -40,7 +40,7 @@ Feel free to check the issues page.
 
 Chernyshev Artemiy 👤
 
-- GitHub: [@chernyshevartemiy](https://github.com/DevRishiJain)
-- Linkedin: [@arteche](https://www.linkedin.com/in/devrishijain/)
+- GitHub: [@Dev Rishi Jain](https://github.com/DevRishiJain)
+- Linkedin: [@Rishi](https://www.linkedin.com/in/devrishijain/)
 
 Give a ⭐️ if you like this project!
